@@ -12,4 +12,8 @@ Palavras - chave
 
 Keylogger - Virus que copia tudo que é digitado.
 phishing - Novo golpe que é enviado por e-mail, manda por telefonema.
+_____________________________________________________________________
+Espinha Dorsal - Conecta tudo na rede e fornece pacote de rede.
+ping + Site no CMD - Mostra o IP do site colocado.
 
+                                                                                                                                                                          
