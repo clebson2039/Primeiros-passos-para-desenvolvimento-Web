@@ -38,6 +38,11 @@ DNS - 53
 HTTP - 80
 HTTPS - 443
 ______________________________________________________________________
+Stacks - são pilhas de tecnologia.
+______________________________________________________________________
+Termos
 
+ALT- texto alternativo, dinâmico.
+API - Funcionalidade extra.
 
                                                                                                                                                                           
